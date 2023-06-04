@@ -4,6 +4,7 @@ try:
     risk= income / age
     print(age)
     print(risk)
+    
 except ZeroDivisionError:
     print("age must be greater than zero")
 
