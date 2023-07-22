@@ -22,5 +22,5 @@ fsh = fish()
 
 rab.flee()
 fsh.flee()
-fsh.hunt()
+
 
